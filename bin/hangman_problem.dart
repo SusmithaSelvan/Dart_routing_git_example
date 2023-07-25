@@ -84,4 +84,5 @@ void main(List<String> arguments) {
   } else {
     print('Game over! The word was: $selectedWord');
   }
+print('-------FINISHED---------');
 }
